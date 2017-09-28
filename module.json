@@ -10,7 +10,7 @@
 	"maturity": "stable",
 	"repository": {
 		"type": "git",
-		"source": "https://github.com/Z-Wave-Me/home-automation"
+		"source": "https://github.com/aivs/MosEnergoSbit-ZWay"
 	},
 	"defaults": {
 		"title": "__m_title__",
