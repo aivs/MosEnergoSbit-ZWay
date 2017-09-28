@@ -1,0 +1,9 @@
+{
+	"m_title":"Mosenergosbyt",
+	"m_descr":"Transfer of readings electricity meter to Mosenergosbyt.",
+	"l_meter":"Electricity meter",
+	"l_days":"Day of sending readings",
+	"h_days":"If set None readings will not be sent.",
+	"l_login":"Login",
+	"l_password":"Password"
+}
